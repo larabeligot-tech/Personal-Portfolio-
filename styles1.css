@@ -58,6 +58,22 @@ header {
 .logo span {
     color: #c9a8ee;
 }
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.logo span {
+    font-size: 25px;
+    font-weight: bold;
+}
 
 .nav-links {
     display: flex;
