@@ -46,18 +46,6 @@ header {
     align-items: center;
     gap: 24px;
 }
-
-.logo {
-    color: var(--white);
-    font-family: 'Brush Script MT', 'Segoe Script', cursive;
-    font-size: 34px;
-    font-style: italic;
-    letter-spacing: 0;
-}
-
-.logo span {
-    color: #c9a8ee;
-}
 .logo {
     display: flex;
     align-items: center;
