@@ -1250,7 +1250,9 @@ footer {
 
 @media (max-width: 520px) {
     .logo {
-        font-size: 26px;
+        font-size: 26px; 
+        font-style: calligraphy; white
+    
     }
 
     .nav-links a {
