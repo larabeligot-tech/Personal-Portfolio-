@@ -60,7 +60,8 @@ header {
 
 .logo span {
     font-size: 25px;
-    font-weight: bold; white
+    font-weight: bold;
+    font-style: calligraphy;
 }
 
 .nav-links {
