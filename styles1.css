@@ -61,7 +61,7 @@ header {
 .logo span {
     font-size: 25px;
     font-weight: bold;
-    font-style: calligraphy;
+    font-style: calligraphy; white;
 }
 
 .nav-links {
